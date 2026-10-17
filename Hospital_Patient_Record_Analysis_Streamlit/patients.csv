@@ -1,0 +1,6 @@
+Patient ID,Name,Age,Gender,Blood Group,Phone,Department,Diagnosis,Doctor,Admission Date,Discharge Date,Status,Treatment Cost
+P001,Rahul Patel,45,Male,B+,9876543210,Cardiology,Hypertension,Dr. Mehta,2026-08-01,2026-08-05,Discharged,18000
+P002,Priya Shah,29,Female,O+,9876501234,General Medicine,Fever,Dr. Shah,2026-08-10,2026-08-12,Discharged,6500
+P003,Amit Kumar,62,Male,A+,9876512345,Orthopedics,Fracture,Dr. Patel,2026-08-15,,Admitted,35000
+P004,Neha Joshi,18,Female,AB+,9876523456,Pediatrics,Infection,Dr. Desai,2026-08-17,2026-08-20,Discharged,9000
+P005,Karan Singh,51,Male,O-,9876534567,Neurology,Migraine,Dr. Shah,2026-08-19,,Admitted,22000
